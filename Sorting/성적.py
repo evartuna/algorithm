@@ -1,6 +1,6 @@
 n=int(input())
 array=[]
-for i in range(2):
+for i in range(n):
     array.append(input().split())
 
 def order(arr):
